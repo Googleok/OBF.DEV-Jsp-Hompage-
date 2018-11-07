@@ -1,0 +1,40 @@
+/* 로고 위치 */
+#mylogo{
+  padding: 10px 5px;
+}
+
+#myheader_1 div{
+  height: 55px;
+}
+
+/* 로고 링크 */
+#mya_logo{
+  text-decoration: none;
+  padding: 15px 400px;
+  font-family: 'Alfa Slab One', cursive;
+  font-weight: lighter;
+  font-size: 50px;
+  color: black;
+  text-decoration-line: underline;
+}
+
+.jumbotron p{
+  font-weight: bold;
+  color: #3D3D3D;
+}
+
+.jumbotron h1{
+  font-weight: bold;
+  color: #3D3D3D;
+}
+
+.jumbotron h2{
+  font-weight: bold;
+  color: #3D3D3D;
+}
+
+.img-responsive{
+  float: right;
+  width: 180px;
+  height: 250px;
+}
